@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 Visual GitHub Dashboard
+### 📊 Dashboard
 
 <!-- Actual username: devdiyar -->
 
