@@ -38,7 +38,7 @@
 <!-- Achievements / Trophy style cards (auto-generated) -->
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=devdiyar&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://github-trophies.devomb.com/?username=devdiyar&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 <!-- Summary cards grid (activity, repos per lang, commit lang, stats) -->
